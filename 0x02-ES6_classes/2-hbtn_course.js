@@ -9,7 +9,7 @@ export default class HolbertonCourse {
     this._students = students;
   }
 
-  //   Name
+  // Name
   get name() {
     return this._name;
   }
